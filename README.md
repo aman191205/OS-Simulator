@@ -15,6 +15,7 @@
   - **Prime**, **Factorial**, **Armstrong** checkers
   - **Time & Date** display
   - **File operations**
+  - **Songs**
 
 ## Technologies Used
 
